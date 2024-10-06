@@ -1,2 +1,3 @@
 https://eecs390.github.io/notes/theory.html#operational-semantics
 https://aartaka.me/lambda-0
+https://cs.stackexchange.com/questions/161716/what-exactly-is-delta-reduction
