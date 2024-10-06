@@ -1,0 +1,2 @@
+https://eecs390.github.io/notes/theory.html#operational-semantics
+https://aartaka.me/lambda-0
